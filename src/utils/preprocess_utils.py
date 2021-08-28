@@ -433,3 +433,13 @@ all_upanishads = [
                  'Muktika'
                  ]
 
+correction = {'Atharva-Veda':{'Mundaka':'Munda', 'Atahrvasiras':'Atahrvasirah',
+                      'Ramatapini': 'Ramatapani', 'Pasupatabrahmana':'Pasupata',
+                      'Bhasmajabala':'Bhasma'},
+              'Krishna-Yajur-Veda':{'Kathavalli':'Katha', 'Taittiriyaka':'Taittiri',
+                       'Svetasvatara': 'Svetasva', 'Avadhuta':'Avadhutaka',
+                       'Yoga-kundalini': 'Yoga-kundali'},
+              'Sama-Veda': {'Maitrayani':'Maitrayini','Rudrakshajabala':'Rudraksha'},
+              'Sukla-Yajur-Veda': {'Isavasya':'Isa', 'Trisikhibrahmana':'Trisikhi'}
+              }
+
