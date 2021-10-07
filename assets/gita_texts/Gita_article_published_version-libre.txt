@@ -1,0 +1,1000 @@
+Modern Intellectual History, 7, 2 (2010), pp. 297–317
+doi:10.1017/S1479244310000089
+
+!
+C Cambridge University Press 2010
+
+corrigibility, allegory,
+universality: a history of the
+gita’s transnational reception,
+1785–1945∗
+mishka sinha
+Faculty of Asian and Middle Eastern Studies, University of Cambridge
+E-mail: mishka.sinha@gmail.com
+
+This essay lays out a history of the translation, interpretation, transmission and
+reception of the Bhagavad Gita as a cultural, religious and philosophical text in the
+West from 1785 to 1945; in doing so it focuses primarily on Britain, although it also
+refers to other contexts of reception where they are connected to the British context,
+or to present revealing or helpful comparisons. The object of the essay is to investigate
+relationships between the Gita’s interpretive history and assumptions about the Gita,
+both as a transcultural philosophical source and as an essentially Hindu religious text,
+which have been in place since the twentieth century. Although there have been other
+transnational surveys and histories of the Gita’s translation, this essay differs from
+them in positing a specific period of interpretation between the end of the nineteenth
+century and the beginning of the twentieth, during which time, it argues, the Gita as
+a received and translated text was significantly altered in certain specific ways which
+continue to influence its present understanding both in the West and in India.
+
+The Gita lends itself easily to interpretation.1 The tractability of the Gita
+has vital roots in ambiguities inherent to its structure and its place within
+the Mahabharata epic: the heterogeneity of its narrative material suggests that
+rather than being a unified composition, the Gita may be a combination of
+∗
+
+1
+
+Grateful thanks to Professor David Armitage for his kind comments and invaluable
+discussion of this paper, which were integral to the shaping of its final form; to Dr Shruti
+Kapila, Dr Faisal Devji and Professor Sir Chris Bayly for their generous help; and to
+Dr Prashant Kidambi for his extremely useful suggestions.
+I am indebted to scholars who have explored the Gita’s interpretive flexibility in discussions
+of its reception within transnational contexts, especially Gerald James Larson, “The
+‘Bhagavad-Gita’ as Cross-cultural Process: Towards an Analysis of the Social Locations of
+a Religious Text”, Journal of the American Academy of Religion 43/4 (Dec. 1975), 651–69; Eric
+J. Sharpe, The Universal Gı̄tā: Western Images of the Bhagavadgiı̄tā, a Bicentenary Survey
+(London: Duckworth, 1985); and Catherine A. Robinson, Interpretations of the BhagavadGı̄tā and Images of the Hindu Tradition: the Song of the Lord (London: Routledge, 2006).
+
+297
+
+298 mishka sinha
+
+older sections with later interpolations,2 and, moreover, may itself be a late
+insertion into the fabric of the Mahabharata. The Gita’s adaptability to different
+kinds of philosophical interpretation is fundamentally shaped by the fact that
+its composer(s) reconciled within it several philosophical darśanās, including
+fundamental concepts from Sāṅkhya and Yoga, with newer devotional aspects
+associated with the rise of Bhaktı̄ traditions. Within the Brahmanical tradition
+the text further possesses a certain ambiguity of status: despite being of smārta3
+rather than śrauta4 origin, the Gita was given a special position, and treated as
+distinct from most other smr.ti literature by commentators as early as Śaṅkara
+in the ninth century. This quality of being assigned semi-doctrinal status while
+being neither scripture nor revealed religion has, as shall be seen below, persistent
+echoes in the Gita’s reception in the modern period.
+This essay traces the metamorphosis of the Gita from a text of contained
+circulation within an enclaved Brahmanical tradition in India, through a period
+in which it was the subject of circumspect curiosity and limited interest, into a
+text of transnational significance.
+In Truth and Method,5 Hans-Georg Gadamer argued for a philosophical
+hermeneutics which assumed a historically effected consciousness (Wirkungsgeschichtlichen Bewußtsein) for any interpreter of a text. Therefore the
+interpretation of a text requires and results in a fusion of horizons
+(Horizontverschmelzung), that of the text and that of the interpreter himself,
+each informing and articulating the other. My reading of the history of the Gita’s
+interpretation suggests that a third “horizon” or plane of reference must be
+recognized: a historical consciousness, present within both interpreter and text,
+of previous interpretations and their contexts, which affect and are retrospectively
+affected by each new interpretation of the Gita. Thus if the text and the interpreter
+of the text each has a history, the interpretation and reception of the text also
+has its own history, which must be taken into account. The third horizon, that
+of reception, enters the Horizontverschmelzung and alters the conditions under
+which interpreter and text encounter each other, and the manner in which both
+are eventually encountered by the reader. The various interpretations of the Gita
+discussed here, which were written in the period between 1880 and 1910, are related
+by family resemblances that pertain to specific qualities: namely the allegorical
+
+2
+
+3
+4
+5
+
+Larson, “The ‘Bhagavad-Gita’”, 659, suggests that the Gita was composed between 200
+BCE and 200 CE. Angelika Malinar recognizes 400 BCE to 400 CE as a broader general
+period of composition.
+Remembered/traditional.
+Heard/revealed.
+Hans-Georg Gadamer, Truth and method, trans. from the German, trans. ed. by Garrett
+Barden and John Cumming (London: Sheed & Ward, 1975).
+
+corrigibility, allegory, universality
+
+representation, the assumption of universal relevance and the production of
+transcultural significance through collaborative and contrapuntal engagements
+between Indian and Western translators. Collectively, they form a composite
+horizon of interpretation which continues to be inherited by new readers and
+interpreters as a historicized presence of a defining interpretive past.
+There is a moment of critical mass in the history of the Gita’s reception. A
+brief perusal of any international bibliography of the Gita reveals that from about
+1880 the number of translations of the Gita began to rise steeply, both in English
+and in other European languages, while translation into Indian vernaculars also
+increased at the same time.6 At this juncture the text began to occupy a new
+cultural space within a transnational context, and initiated the construction of a
+popular tradition in the West.
+Scholars have previously noted the importance of the sudden increase in
+translations of the Gita from the 1880s,7 and the importance of the history of the
+Gita’s translation and interpretation in the West to its significance within Indian
+national history and the history of neo-Hinduism.8 However, this essay argues
+that the manner in which the Gita was received and understood as a cultural,
+religious, spiritual and philosophical text was transformed over a comparatively
+brief period, in a process which had an enormous and yet largely unrecognized
+impact on the reception and interpretation of the Gita from the twentieth century.
+The primary elements of the argument of this essay are as follows:
+• Instead of a smooth trajectory of increase and expansion in the period after
+1880 as previous studies have suggested, there was a specific and exceptionally
+generative period of about three decades between 1880 and 1910, during
+which the scope of the Gita’s influence and the potential for its interpretation
+underwent a radical metamorphosis.
+• This transformation was a consequence of the Gita’s translocation into an
+international context, yet it was produced through a dialogic and dialectical
+transnational process within which Indian and European/American
+translation and commentary informed, and intervened in, each other’s
+interpretations.
+• Finally, the process of translation effectively isolated and emphasized two
+particular qualities which have since become unquestioned assumptions for
+most modern interpretations of the Gita. These are, first, that the Gita is
+essentially an allegorical construction, which uses symbols and metaphors to
+
+6
+
+7
+8
+
+E.g. J. C. Kapoor, Bhagavad-Gita, an International Bibliography of 1785–1979 Imprints (New
+York: Garland Publishers, 1983).
+Sharpe, The Universal Gı̄tā, 62–3.
+Larson, “The ‘Bhagavad-Gita’”, 665–6; and Introduction to Robinson, Interpretations.
+
+299
+
+300 mishka sinha
+
+put across hidden truths of spiritual significance; and, second, that it is a text
+of universal relevance.9
+The shift in interpretive meaning which transformed the Gita between 1880 and
+1910 occurred through the mediation of several translations, often in concourse
+with each other. These, and the interpretations and receptions accompanying
+them, had the cumulative effect of constructing a new set of assumptions and
+frameworks for receiving, interpreting and understanding the Gita. In other
+words, a “community of meaning” was evolved through an integrally dialogic
+process, which not only changed the reception of the Gita in the West but also
+played an important role in repositioning the Gita within the formation of neoHinduism, as well as in the Indian national movement.
+
+the early history of translation
+When Charles Wilkins translated the Gita into English in 1785, under the aegis
+of the East India Company, it amounted to a paradigm shift in the history of
+the interpretation of the Gita and the intellectual history of Western knowledge
+of the East. Wilkins’s translation “carried the text over”10 into a new cultural
+context, giving it unprecedented scope for an extraordinary breadth of meaning
+and influence.
+Wilkins’s Bhagavat Geeta or the Dialogues of Kreeshna and Arjoon was the first
+text widely known to have been directly translated from Sanskrit into a European
+language.11 The Bhagavat Geeta was thus received in Europe with curiosity and
+interest as the first textual example of Indian culture directly encountered there.
+The curiosity occasioned by the Gita was to be its defining characteristic for most
+of its first hundred years in the West. As a result, its content was eclipsed by the
+novelty of its context and the popular interest in the language and culture of
+recently acquired British territories in India.
+Charles Wilkins and Warren Hastings, Governor General of Bengal from
+1773 to 1785, and chief supporter and instigator in Wilkins’s Sanskrit researches,
+began their comments on the Bhagavat Geeta by emphasizing its “curiosity”
+as a cultural object. They surmised correctly that this aspect would ultimately
+prove the most significant attraction for their readers in England.12 Hastings
+9
+
+10
+11
+
+12
+
+The boundaries of this “universality” depend on the interpretive context – for example,
+whether they extend to include all Hindus, or all Indians, or all humans.
+Taking the Latin word translatio.
+Charles Wilkins, Bhagvat Geeta or the Dialogues of Kreeshna and Arjoon (London: Nourse,
+1785).
+See p. v of Hastings’ “Introduction” and p. xvi of Wilkins’ “Translator’s Preface”, in the
+1849 reprint of the original text, edited by Rev. J. Garrett.
+
+corrigibility, allegory, universality
+
+and Wilkins’s attempts to provide a wider sense of the text’s value as literature
+and as philosophical doctrine within its own cultural context13 found a largely
+hostile reception in answer to their apparent proposal to “exchange the
+most metaphysical of . . . [their] . . . own received doctrines, for others so much
+more abstruse, that the utmost stretch of mind on this hemisphere cannot
+comprehend”.14
+For early readers the primary value of texts retrieved from the unkown past
+of the distant East lay in their ability to convey pleasure and pique curiosity by
+emphasizing the difference between their readers and the people who produced
+them. As an early review put it, in the “history of the human mind, our curiosity
+is irresistibly attracted by those pages, which exhibit manners and opinions
+far removed from our own . . . [to which] we liken with peculiar pleasure”.15
+Ultimately, its reviewers reckoned, the Gita’s importance lay not in any intrinsic
+quality it may have possessed, but in its value as “a curious specimen of
+mythology and . . . an authentic standard of the faith and religious opinions of the
+Hindoos”.16
+Despite a favourable initial reception, Wilkins’s translation did not achieve
+lasting popularity in its early decades. In 1846, the editor of a multilingual edition
+of the Gita which had been produced for missionaries in India observed that
+his own book filled an important gap, since, despite its being long held in high
+repute, the English translation of the Gita had now become scarce.17
+The wider audience for Wilkins’s work in Britain, apart from those with
+scholarly, missionary or commercial interests in India, was an important section
+of the literate public. Until well into the second half of the eighteenth century the
+majority of this readership was primarily interested in traveller’s tales, however
+wild and fanciful.18 Yet their guaranteed audience was equally an indication of an
+eclectic curiosity about the manners and customs of non-Christian peoples and
+faraway lands, which was broadened and educated by the literary and linguistic
+discoveries of the late eighteenth century, but which, by the 1830s, was on the
+
+13
+
+14
+15
+16
+17
+
+18
+
+“Remarks on the Dialogues of Kreeshna and Arjoon”, Gentleman’s Magazine LV/12/2 (Oct.
+1785), 955–7.
+Anonymous review, Gentleman’s Magazine 55/12 (December 1875), 955–7, 957.
+Monthly Review 1 (1785), Article II, 198–210 and 295–301.
+Ibid.
+Rev. J. Garrett, ed., The Bhagavat Geeta or Dialogues of Krishna and Arjoon in Eighteen
+Lectures. Sanskrit Canarese and English in Parallel Columns. The Canarese newly translated
+from the Sanskrit, and the English from the translation by Sir Charles Wilkins (Bangalore:
+Wesleyan Mission Press, 1846).
+See, for example, J. Z. Holwell’s Interesting Historical Events, Relative to the Provinces of
+Bengal, and the Empire of Indostan, 3 vols. (London, 1765–71).
+
+301
+
+302 mishka sinha
+
+decline.19 After Macaulay’s crucial 1835 “Minute on Indian Education”,20 with
+few exceptions, academic and scholarly interest in India also lost ground, as
+the ascendancy of evangelical groups and Utilitarian ideals, and the influence of
+James Mill, shaped the temper of British intellectual attitudes to India.21
+In this, Britain was the exception in nineteenth-century Europe, and even
+though the scholarly pursuit of Sanskrit studies and Indology in America was
+established later than in Europe, there, too, intellectual and cultural interest in
+India increased throughout the century. However, despite being the first Sanskrit
+text to be widely accessible in the West, the Gita was easily outdone in its impact
+in Europe as well as in America, in the early period of Western translations from
+Sanskrit, by Sacontalá or the Fatal Ring, William Jones’s translation of Kalidasa’s
+play, published in 1789. Jones was one of the earliest European scholars to note the
+correspondences between Sanskrit, Greek and Latin, and to suggest a common
+origin for these languages.22 The idea of an Indo-European “mother-tongue”,
+with Sanskrit as the favoured contender, shaped the course of nineteenth-century
+oriental studies, seeding a new “science” of comparative philology which became
+a defining scholarly enterprise for a century absorbed with questions of origins,
+and interconnections between language, race and culture. The early fascination
+with classical texts such as Sacontalá was replaced by a deepening obsession with
+the older literature of the Vedas and Vedanta, fuelled by the publication of the
+Oupnek’hat (1802–4), a Latin translation of the Upanis.ads by the French Jesuit
+
+19
+
+20
+
+21
+22
+
+This is well illustrated by the diminishing numbers of articles on India in British journals,
+such as the Edinburgh Review, for instance, from the early 1800s to the 1830s.
+T. B. Macaulay was a Whig politician, historian, and, from 1834, member of the Supreme
+Council of India. His “Minute on Indian Education” (1834) persuaded the GovernorGeneral to adopt English, rather than Sanskrit or Arabic, as the medium of instruction in
+higher education in India. The Orientalists, including scholars and government officials
+such as H. H. Wilson, had maintained the importance of instruction in Indian languages,
+and of the need to educate Indians about their own texts and traditions. Macaulay, who
+was unversed in oriental studies, argued that modern European knowledge was superior
+to Asian knowledge, and that proficiency in English would be of greater benefit to Indians
+than Indian languages. Macaulay’s minute laid the foundation for higher education in
+India as well as a colonial system based on the cooperation of English-speaking Indians:
+it also catalysed the sharp decline in the value assigned to Indian languages, culture and
+history in Britain for the next century and more.
+James Mill, The History of British India (London: Baldwin, Cradock and Joy, 1817).
+Jones was one of the earliest scholars known to have noticed the philological relationship,
+although it may have been noted previously by medieval scholars working in Persian or
+Arabic. There is at least one European contender for Jones’s status: see John J. Godfrey,
+“Sir William Jones and Pere Coeurdoux: A Philological Footnote,” Journal of the American
+Oriental Society 87/1 (Jan.–March 1967), 57–9.
+
+corrigibility, allegory, universality
+
+philologist Abraham-Hyacinthe Anquetil Duperron.23 The Gita had neither the
+literary polish and skilful composition of classical literature, nor the sublime
+metaphysics of the Vedas, with their aura of grand antiquity, and hence remained
+for three-quarters of a century both less well known and less frequently translated
+than these.
+Wilkins’s English translation was retranslated into Russian and French and
+soon after into German and Greek. However, the earliest direct translation from
+Sanskrit into German was not published until 1834, whilst the first direct French
+translation was done in 1861 by Emile Burnouf, the less-famous younger brother
+of Eugène Burnouf, Sanskrit professor at the Collège de France. The first direct
+translation of the Gita into a European language after Wilkins’s was by August
+von Schlegel, who held the first chair in Sanskrit in Germany. Schlegel published
+a Latin translation of the Gita in 1823 along with the first critical edition in
+Sanskrit by a European. Unlike Wilkins’s Gita, Schlegel’s critically edited text
+represented a scholarly tradition of interest in Sanskrit and Indian philology
+and philosophy which had come of age. Schlegel’s text showed that Wilkins’s
+translation contained several inaccuracies, yet it was not followed by a new
+English translation for seventy years.
+The “recovery” of Sanskrit and its literary corpus and traditions for the West by
+the East India Company became a symbol of both British political and economic
+power and the ability and authority it conferred to gather for Western civilization
+not only material largesse but also fabulous cultural wealth. The most vivid contemporary representation of the symbolic power of Sanskrit translation, and of
+the Bhagavad Gita as the exemplar text brought forth by this power, was in William
+Blake’s drawing The Brahmins (1809), which showed Charles Wilkins working on
+his translation of the Gita with a group of Brahmins attendant upon him.
+Blake’s drawing suggested that the importance of the Gita lay in its significance
+as an object of secret knowledge recovered through intellectual labour and
+imperial triumph from its hitherto unknowable form within a previously hidden
+tradition. With few exceptions, for most of the first hundred years after it became
+available in the West, this summed up the major significance of the translocated
+Gita in its international context.
+
+metamorphoses of the gita: 1880–1910
+In the almost hundred years between 1785 and 1880, there were two extant
+translations of the Gita in English, Charles Wilkins’s, and one brought out in 1855
+by J. Cockburn Thomson—a former student of H. H. Wilson, the first Boden
+23
+
+Anquetil-Duperron’s version was based on the Persian translation written or
+commissioned by Dara Shukoh.
+
+303
+
+304 mishka sinha
+
+Professor of Sanskrit at Oxford. In the five years between 1880 and 1885 three new
+translations in English were published in Britain.
+The steep increase in the number of translations of the Gita from the final
+decades of the nineteenth century onwards reflected an unprecedented expansion
+in its popularity and influence. This was a result of a series of independent and
+yet in some ways related translations and interpretations of the Gita which, in
+conjunction, transformed its meaning and interpretation for the modern world.
+The effects of this transformation were as vital to the reception of the Gita in
+India as they were in the West.
+Although there were other popular translations of the Gita during this period,
+they did not, in my opinion, contribute as much as did the four described below
+to the Gita’s modern metamorphosis, nor did they reflect the qualities which
+may be taken as family resemblances appearing in, and connecting, these four
+interpretations, each of which is integral to modern interpretations of the Gita:
+the emphasis on allegory, the assumption of universality, and the presence of a
+dialogic communication between Indian and Western interpreters which shape
+these interpretations.24
+
+sacred books of the east
+The Bhagavad-Gı̄tā, translated by Kashinath Trimbak Telang, was published
+in 1882 in the eighth volume of the Sacred Books of the East, edited by Friedrich
+Max Müller. In the 1870s, when the series commenced, there was a growing public
+appetite for doctrines which could provide frameworks for the movements of
+heterodox spirituality that rose in an implacable tide at the end of the nineteenth
+century. Publishing houses recognized a new and profitable market, and K. Paul,
+Trench, Trübner and Company was an early player in the game, publishing The
+Sacred Anthology: A Book of Ethical Scriptures,25 edited by Moncure Conway, and
+dedicating a specialized Oriental Series to literary and religious texts from Eastern
+traditions.
+Max Müller’s choice of the term “sacred books” had a special significance for
+the inclusion of the Gita in the series. Rejecting the word “Bible” as a generically
+applicable term, and describing his search for a broader one, Müller stressed an
+important distinction: “there are many books sacred which are not canonical, and
+
+24
+
+25
+
+The only exception is Swami Vivekananda’s interpretation of the Gita in lectures delivered
+in Europe, America and India, which shares these characteristics. However, Vivekananda’s
+Gita was more important to the reception of the text within neo-Hindu movements in
+India than in a transnational context.
+The Sacred Anthology: A Book of Ethical Scriptures Collected and Edited by Moncure Conway
+(London: Trübner and Company, 1873).
+
+corrigibility, allegory, universality
+
+it was in order not to exclude them from my Series, that I prefer the title Sacred
+Books of the East”.26 This was an important difference since Müller could not have
+included the Gita or the Vis.n.upurān.a in his series had they had to fit the category
+of canonical. Müller, like his nineteenth-century German teachers, saw authority
+and importance as inextricably connected with age and antiquity. In a letter to
+William Gladstone, Müller wrote that he wished to direct the other’s interest to
+the “real India”, in which lay the primitive origins of European culture:
+It was a misfortune that all the early publications of Sanskrit texts belonged really to
+the Renaissance of Sanskrit literature . . . [the] older literature in India, the Vedic and the
+Buddhistic . . . is [where] . . . we can watch a real growth from the simplest beginnings to
+the highest concepts which the human mind is capable of . . .27
+
+Yet while it was not canonical, nor vital to the understanding of India, in Max
+Müller’s estimation, the Gita was sacred in the Sanskrit tradition, and hence,
+despite not being especially interesting to most nineteenth-century scholars, it
+was included in the series.
+Kashinath Trimbak Telang had previously published a verse translation of the
+Gita in Bombay, but the version for the Sacred Books was in prose, and included
+the Anugı̄tā and the Sanatsugātı̄ya. Telang was one of only three non-Western
+contributors invited to write for the series, and one of two Indians, the other being
+the celebrated R. G. Bhandarkar. Most other contributors were internationally
+recognized scholars while Telang was comparatively obscure. Telang’s translation
+combined a thorough knowledge of the Sanskrit tradition with a philological
+and historical method very much part of a nineteenth-century European mode
+of scholarship; it was meticulous and scholarly, but lacked significant literary or
+poetic qualities that might have drawn a wider audience. Yet Telang’s Gita turned
+out to be amongst the more popular books in the series, selling over two hundred
+copies.28
+Forty-nine volumes of Sacred Books were eventually published in two
+series between 1879 and 1910. The cost of publishing this extraordinary and
+expensive project was borne by Oxford University Press together with the British
+Government in India.29 To foreground and frame the special nature of his project,
+Max Müller, as a member of the board of delegates at the press, suggested that
+a new category of publications be instituted which would be published not for
+26
+
+27
+28
+
+29
+
+Friedrich Max Müller, The Life and Letters of the Honourable Friedrich Max Müller in
+Two Volumes Edited by His Wife (Bombay, London and New York: Longmans, Green and
+Company, 1903), Müller to Moncure Conway, 5 Jan. 1883, 2: 135.
+Müller to W. E. Gladstone, 18 Jan. 1883, Life and Letters, 2: 138.
+N. J. Girardot, “Max Muller’s ‘Sacred Books’ and the Nineteenth-Century Production of
+the Comparative Science of Religions”, History of Religions 41/3 (Feb. 2002), 227 n. 27.
+Müller, Life and Letters, 2: 10.
+
+305
+
+306 mishka sinha
+
+profit but for the “advancement of sound learning”.30 The Oxford Clarendon
+Press was accordingly instituted.
+It is important to further contextualize Max Müller’s project, and the
+new authority it conferred on the Gita, by its inclusion in another emergent
+institutional innovation. The transformative integration and reconstitution of
+oriental studies within British institutions of higher education occurred as part
+of a larger transformation taking place in the medieval British universities and
+British academia at this time. The important changes in academic institutions in
+America during the nineteenth century followed the development of professorial
+“research” universities in Germany.31 In Britain, the 1870s, when Max Müller had
+reached the height of his academic and social influence, was the cusp of the
+change; taking Oxford as the exemplar, “there was a dramatic passage from the
+restrictive Anglican clerical, classical, and upper-class trappings of traditional
+education to a newly liberalized, nationalistic, competitive, and middle-class
+professional system”.32
+Telang’s Gita received few public reviews. The reviewers of The Song Celestial,
+published three years later, all noted previous translations of the Gita by Wilkins,
+Cockburn Thomson and John Davies (1882); yet although Arnold himself
+mentioned Telang’s translation as well as the other three, none of Arnold’s
+reviewers mentioned Telang. The only reference I have found in contemporary
+popular journals and newspapers to Telang’s Gita is a piece of witticism in a brief
+article entitled “A Serious Series”:
+A “Series of Sacred Books of the East,” edited by Professor Max Mueller, is now being
+published. One of the volumes contains the Satapatha-Brahmana according to the text of
+the school of Madhyandin; another comprises the “Pattimokkha” (who was he bye-thebye and why did he mock Patti?); while in volume eight is found “The Bhagavadgita with
+the Sanātsugātiya, and the Anugı̄tā” translated by Kashinath Trimbak Telang, M.A. Fancy
+sending your servant to a bookseller’s to ask for such works! Why, she would be sure to
+drop half a dozen syllables on the road.33
+
+Was the general reader disconcerted by the strange syllables composing Telang’s
+name which added to the unfamiliarity of the Gita, or were the “serious”
+scholarly trappings of the text not suited to a mass audience? Notwithstanding
+its reception, through being included in the Sacred Books, Telang’s Gita was
+absorbed into an integrated institutional structure which altered the text’s
+presence in its international context. The Sacred Books represented a highly
+30
+
+31
+32
+33
+
+Girardot, “Max Muller’s ‘Sacred Books’”, 228 n. 29. See Max Müller, “Statement to the
+Delegates of the Oxford University press, 1878,” OUP Archive.
+Girardot, “Max Muller’s ‘Sacred Books’”, 215–16.
+Ibid., pp. 215–216.
+Funny Folks, 3 June 1882.
+
+corrigibility, allegory, universality
+
+ambitious academic, cultural and political publishing project. They were selected
+by Max Müller to represent a specific construction of sacredness that conferred
+upon the texts he included a separate kind of social, cultural and institutional
+authority which they reciprocally manifested and defined.34 Published within
+such a structure the Gita became part of a new transnational, established
+and authorized canon that could foundationally define what constituted an
+internationally recognized sacred tradition.
+The publication of the Gita in the Sacred Books was a collaborative process
+involving an Indian translator and a Western figure of institutional authority as
+well as immense popular authority on India. Their dialogical interaction gave the
+Gita a new universal sanction.
+
+the song celestial
+Edwin Arnold’s translation, The Song Celestial, allowed the Gita to enter
+a broader public consciousness. Arnold’s poem was in the grand tradition of
+Dryden’s translation of Virgil, which brought the original closer to the reader,
+rather than bringing the reader closer to the original, as Goethe had suggested
+should be done to maintain fidelity while translating oriental texts. Rather than
+attempt to reproduce the Gita “as it was”, The Song Celestial reinvented and, in
+some contexts, replaced it.
+By the time the Song Celestial appeared in 1885, Edwin Arnold was already a
+highly regarded Victorian poet, well known for his oriental verse. In a Liverpool
+newspaper, published on New Year’s Eve 1885, The Song Celestial is mentioned
+under the Literature Section of a listing of the past year’s important events,
+appearing beside works by Tennyson, Swinburne and George Meredith.35 Arnold’s
+most popular work was The Light of Asia (1879), and although The Song Celestial
+never matched the popularity of the earlier poem, Edwin Arnold played an
+essential part in the transformation of the modern Gita. Arnold had been
+principal of the Government College in Pune, before a successful journalistic
+career in London with the Daily Telegraph where he rose to the position of editorin-chief. Yet his prominent public image arose from his involvement with two
+grandly ambitious and acquisitive colonial projects: the journalistic assignment
+of H. M. Stanley which he helped to arrange, and his promotion of a proposed
+Grand Trunk railway across Africa.
+The Song Celestial garnered public notices across England and Ireland, many
+of which noted Arnold’s contribution in making Eastern texts accessible for a
+
+34
+35
+
+This is noted by Girardot, “Max Muller’s ‘Sacred Books’”, 220.
+“The Year 1885”, Liverpool Mercury, 31 Dec. 1885.
+
+307
+
+308 mishka sinha
+
+newer, broader audience. A reviewer in the Birmingham Daily Post wrote,
+In an especial sense Mr. Arnold has been a revealer to his generation. To what
+extent . . . Oriental literature [has] . . . been accessible to the learned among us we do
+not know; but to the mass of the English reading public they [oriental works] have been
+as though they were not . . . Mr. Arnold has in mellifluous verse placed before us . . . some
+of the works of utmost popularity and authority in the East . . . He now adds this noble
+poem . . .36
+
+But the demand for oriental works amongst “the mass of the . . . reading public”
+was rising; as the Freeman’s Journal, published from Dublin, remarked in August
+1885,
+Undoubtedly Eastern Literature is being popularized, a taste for its study is rapidly
+developing. In recent years, books . . . have unlocked the closed doors of Indian philosophy
+and literature . . . Of the present poem, the Bhagavad Sita [sic] of the great Hindoo epic,
+the Mahabharata—there are already three English translations . . . But . . . Mr. Arnold
+brought to his task literary acquirements . . . supplemented by . . . special knowledge as
+an Orientalist . . .37
+
+By the end of the century the Gita, in the form of The Song Celestial, had become
+a naturalized Victorian text. In December 1899, M. H. Gill and Son, a Dublin
+bookseller, posted in a local paper recommendations from amongst its collection
+of books especially “[s]uitable for Christmas Presents”. The Song Celestial, at
+two shillings, was among the most competitively priced of those listed.38 Unlike
+the reviewer of Wilkins’s Gita, who had thought the primary function of The
+Bhagavat Geeta to lie in satisfying its readers’ curiosity about the exotic East,
+one hundred years later a reviewer of The Song Celestial saw it as a book for
+a spiritual truth-seeker, irrespective of religion or culture. Yet the poem is also
+simultaneously read as a text whose pleasure lies in its value as an aesthetic object.
+Both characteristics seemed to be easily reconciled within the Gita’s new identity:
+The Song Celestial is not a book to be hastily read and thrown aside, and those who only
+want to be amused will do much better with a three-volume novel. But to the real enquirer,
+the searcher after truth, the profundity of the work will be as welcome as its rare finish
+and beauty will make it to those who are chiefly interested in literary excellence.39
+
+Yet high Victorian evangelism was still a part of late nineteenth-century
+Britain. Suspicion of and even revulsion towards Hinduism existed side by side
+36
+37
+38
+
+39
+
+Birmingham Daily Post, 13 Nov. 1885.
+Freeman’s Journal and Daily Commercial Advertiser (Dublin, Ireland), 28 Aug. 1885.
+“Advertisements and Notices”, Freeman’s Journal and Daily Commercial Advertiser (Dublin,
+Ireland), Saturday, 9 Dec. 1899, classified advertisements.
+Freeman’s Journal and Daily Commercial Advertiser (Dublin, Ireland), Saturday, 9 Dec.
+1899.
+
+corrigibility, allegory, universality
+
+with the enthusiasm for alternative spiritual paths and the lingering Romantic
+fascination with the exotic. For many who recalled the darker rumours about
+contemporary Hinduism, Edwin Arnold’s task was to rescue the better portion of
+Hindu philosophy from its unpleasant and even threatening context and present
+it, shorn of dubious associations, to his discerning public:
+Mr. Edwin Arnold[’s translation] . . . will do more for the English reader than any amount
+of metaphysical or historical disquisition to open a way into the mysterious labyrinth of
+Eastern speculation. The grandeur of the forest, into which he clears a smiling pathway,
+conceals the confusing and noxious undergrowth where the unclean and venomous and
+ferocious forces are at work . . . [the text] does not introduce any of the well-known and
+popular and degrading forms of the Krishna legend . . .40
+
+Arnold’s poem allowed the Gita to be received by a new public audience.
+Within months of the appearance in print of The Song Celestial, the Leeds Public
+Library had announced it as one of their latest acquisitions.41 A large part of the
+new and growing readership of the nineteenth and the early twentieth centuries
+was composed of borrowers of books and journals from local libraries, and it
+was this audience, who would either not have had access to or simply not chosen
+to read previously available translations of the Gita, which received Arnold’s
+late-Victorian version with evident enthusiasm.
+The text had become part of a common pool of reference, entering a kind of
+generalized literary consciousness in Britain. By means of Arnold’s poem, the
+Gita began to occupy a much more fluid space. It became capable of slippage,
+out of a specific cultural context and meanings bounded by that context, into
+a literary form, where it and its meanings could be read much more loosely, as
+allegory, its images taken as metaphors, and its religious, doctrinal elements as
+purely symbolic signifiers.
+The Gita was no longer a “sacred” or religious text from a specific non-Western
+tradition, but something more universal. In its new form it could be received as
+poetry and a kind of non-denominational religious philosophy. The identifiably
+late-Victorian form and language endowed it with a new kind of life which drew it
+out of its older skin and contributed to its remaking as a chimerical, transcultural
+object.
+
+gandhi and the song celestial
+Arnold’s poem, The Song Celestial, gave the Gita a pan-Victorian identity
+which appealed not only to readers at home, but to converted readers from
+across the empire. While this essay has not the scope for a history of the Gita
+in the context of Indian nationalism and neo-Hinduism, there is an important
+40
+41
+
+Leeds Mercury, 25 July 1885.
+“Local Notes and Queries”, number CCCXL, Leeds Mercury, 18 July 1885.
+
+309
+
+310 mishka sinha
+
+link between Arnold’s poem and one of the most significant representations and
+uses of the Gita in India in the twentieth century—as Gandhi’s textbook of nonviolence. This needs exploring here because of its role in the dialogic nature of
+the Gita’s transnational development, which comprehended Indian and Western
+interpretations and their integral consciousness of each other and affected the
+Gita’s modern interpretive history.
+In 1925, Gandhi published an article on his interpretation of the Gita in his
+nationalist weekly journal, Young India, where he described his earliest encounter
+with the text. I quote it at length because it illuminates the significance of Arnold’s
+influence:
+My first acquaintance with the Gita was in 1889, when I was almost twenty. I had not then
+much of an inkling of the principle of Ahimsa . . . Now whilst in England my contact with
+two English friends made me read the Gita . . . My knowledge of Sanskrit was not enough
+to enable me to understand all the verses of the Gita unaided . . . They placed before me
+Sir Edwin Arnold’s magnificent rendering of the Gita. I devoured the contents from cover
+to cover and was entranced by it. The last nineteen verses of the second chapter have since
+been inscribed on the tablet of my heart. They contain for me all knowledge . . . I have
+since read many translations and many commentaries, have argued and reasoned to my
+heart’s content but the impression that first reading gave me has never been effaced . . .42
+
+The article is set out as a response to a question which had been raised about
+the true teaching of the Gita: whether it represents an injunction to violence or to
+non-violence. This is a question to which it was vitally important for Gandhi to
+provide a public answer, one which would effectively resolve in his own favour the
+struggle between his own ideology of non-violence and that of those nationalist
+leaders who sought to use the Gita to support their argument for necessary
+violence. Gandhi presented his case, entering the fray with a line that echoes
+one of the most popular injunctions of the Gita, to perform an action without
+attachment, nis.kāma karma—“Mine is but to fight for my meaning, no matter
+whether I win or lose . . .”43 —a brilliant reminder of Gandhi’s commitment to
+the teaching of the Gita.
+The extraordinary effectiveness of Gandhi’s argument in this essay lay in his
+willingness to read the Gita as a literary work, while he argued for the imposition
+of a singular interpretation (of non-violence) on a text which he presented as the
+central spiritual doctrine of his creed. He made it clear that he saw the Gita as
+allegory:
+And who are Dhritarashtra and Yudhishtira and Arjuna? Who is Krishna? Were they all
+historical characters? . . . I regard Duryodhana and his party as the baser impulses in man,
+
+42
+
+43
+
+M. K. Gandhi, “The Meaning of the Gita”, Young India: A Weekly Journal VII/46 (12 Nov.
+1925), 385–6.
+Ibid., 385.
+
+corrigibility, allegory, universality
+
+and Arjuna and his party as the higher impulses. The field of battle is our body. An eternal
+battle is going on between the two camps and the Poet seer has vividly described it. Krishna
+is the Dweller within, ever whispering in a pure heart.44
+
+Gandhi emphasized the Gita’s origins as a literary production by a poet, rather
+than a religious revelation by a form of the Supreme Being. He argued for a critical
+reading of the Gita’s epic context and declared that the Gita’s meaning must not
+suffer from what formalist critics would call the “intentional fallacy”: the poem
+has a semi-mystical capacity to transcend its writer’s intended meaning. “You
+might . . . say that the Poet himself was not against war or violence . . . But . . . The
+poet . . . is not conscious of all the interpretations his composition is capable of.
+The beauty of poetry is that the creation transcends the poet”.45 While the Gita was
+interpreted allegorically before the nineteenth century, from this moment, with
+the influence of Arnold’s poetic representation, and, as we shall see, theosophical
+renderings, allegorical interpretations of the Gita were privileged over others,
+and Gandhi gave them defining currency.
+In his autobiography, Gandhi wrote that the friends who introduced him to the
+Gita in the form of Arnold’s poem were Theosophists.46 They introduced Gandhi
+to Madame Blavatsky and Mrs Besant, and, although Gandhi “politely declined”
+his friend’s invitation to join the society, he read, “at . . . [their] instance, Madame
+Blavatsky’s Key to Theosophy.”47 Gandhi wrote of the book that it “stimulated
+in . . . [him] the desire to read books on Hinduism”.48 Gandhi’s version of the
+Gita shows evidence of his Theosophical readings as well as the influence of
+Edwin Arnold.
+
+the theosophical turn
+The years between 1880 and the first decade of the twentieth century saw
+the emergence and structural and ideological consolidation of the Theosophical
+Society in America, India, Britain and continental Europe. Peter van der Veer
+has convincingly shown that the evangelical tendencies of the Victorian age,
+which were amongst the strongest influences on imperial culture and policy in
+the nineteenth century, were most radically opposed not by liberalism, which he
+accurately sees rather as sharing many evangelical premises, but by unorthodox
+
+44
+45
+46
+
+47
+
+48
+
+Ibid. 387.
+Ibid., 386.
+M. K. Gandhi, An Autobiography or The Story of My Experiments with Truth, trans. Mahadev
+Desai (Ahmedabad: Navjivan Book Trust, 1930), 35.
+H. P. Blavatsky, The Key to Theosophy (London: The Theosophical Publishing Company
+and New York: W. Q. Judge, 1889).
+Gandhi, Autobiography, 35.
+
+311
+
+312 mishka sinha
+
+religious movements, including spiritualism and Theosophy.49 Many of these
+movements combined religious radicalism with strong political leanings towards
+various forms of nonconformist, antinomian sympathies, and anti-imperialist
+rhetoric. The Gita could be integrated by Theosophy as part of what appeared to
+be a radical spiritual quest which sought to achieve results well beyond merely
+spiritual realms.
+The Theosophical Gita was the most important chapter in the formation of the
+transnational Gita—a modern, multiformed text which could be contingently
+comprehended according to interpretive contexts, and universally applied to
+global spiritual conditions, whilst remaining rooted to its essentialist origins in
+a fabulously reconstructed purely Hindu past. The Theosophical representation
+of the Gita placed it within a properly transnational context, being collectively
+constructed and publicized through the text’s interpretations by both Indian and
+Western members of the Theosophical Society. They included T. Subba Row, an
+early Indian initiate, whose lectures on the Gita in 1886, at Adyar, conjectured that
+Krishna in the Gita represented Logos, while Arjuna represented the monad, or
+man; Mohini Chatterji, whose translation of the Gita was published by Trübner
+in 1888; and William Quan Judge, secretary of the American section, whose
+Essays on the Gita (1890) presented an entirely allegorical interpretation of the
+Mahabharata.
+There were two characteristics which, mutatis mutandis, tended to be present
+in all of the Theosophical Gitas. These were, first, the assumption that the
+Gita was primarily an allegorical text to be symbolically interpreted, and,
+second, that it was a text of universal spiritual significance. These interpretive
+principles were apparent in Gandhi’s reading of the Gita’s and Edwin Arnold’s
+translation. They were also used in contemporary Hindu interpretations, such
+as Vivekanada’s, where the universal aspect took on a double significance: the
+Gita was simultaneously the universal Hindu text, the essence of Hinduism and
+as such pertinent to all Hindus, and an essential spiritual text for all humanity.
+However, the Theosophical adoption of these two interpretive principles gave
+them a far wider reach and significance in a much broader international
+context.
+Annie Besant, Madame Blavatsky’s successor in Britain and India, used
+her allegorical reading of the text in the service of her political commitment,
+constructing an ingenious parallel between the Mahabharata war and the Indian
+freedom struggle. Instead of an internecine war for succession between close kin,
+the war in the Mahabharata became a struggle by Arjuna “to destroy a usurper
+
+49
+
+Peter van der Veer, Imperial Encounters: Religion and Modernity in India and Britain
+(Princeton and Oxford: Princeton University Press, 2001), 59–60.
+
+corrigibility, allegory, universality
+
+who was oppressing the land; it was his duty as prince, as warrior, to fight for the
+deliverance of his nation and restore order and peace.”50
+Besant’s interpretation, in her translation as well as her Hints on the Study of
+the Gita, was the most successful and most widely read of all the Theosophical
+Gitas. She used her influence to drive home the universalist assumptions which
+were by now becoming characteristic of the text: “To speak of the Gita is to
+speak of the history of the world . . . How great is the Song of the Lord, all
+nations with one voice acclaim . . . in every country [it] has awakened some echo
+in receptive hearts.”51 Theosophy’s impact was extraordinary not only because
+of its geographical spread, but also because it extended across multiple fields
+of influence: cultural, intellectual, aesthetic and, crucially in the case of India,
+political. The Gita became a central text of Theosophy and through its intercession
+the Gita could reach a transnational, transcultural audience, acquiring new,
+spectacularly effective, forms and meanings in the West as well as in India.
+Edwin Arnold’s translation of the Gita showed that a literary representation,
+with the characters as archetypes or abstract ideals, and the action as purely
+symbolic, was the most easily communicable and widely acceptable telling of
+the text. Gandhi and the Theosophists followed where he had led and found
+the allegorical method apt to their requirements. Through the continuing
+impact of interpretations on generations of new readers and translators, these
+characteristics would become part of the essential meaning of the text for
+interpreters from India and the West, as the Gita gained ever-growing popularity
+from the end of the nineteenth century into the twentieth.
+
+the gita in the twentieth century
+Two translations of the Gita in the twentieth century reveal the influence
+of the inherited ideas and interpretations from the nineteenth century. Each
+is the product of collaborations between Indian and Western translators,
+and the authors of each unquestioningly accept the assumption of universal
+relevance that the Gita began to acquire in the period between 1880 and 1910.
+Both translations were concerned with the symbolic possibilities of the text;
+however, the interpretation accompanying the second translation represents the
+culmination of the process begun by the literary and allegorical interpretations of
+Arnold, Gandhi and the Theosophists, by turning the ordinary, surface meaning
+of the Gita on its head.
+50
+
+51
+
+Annie Besant, The Bhagavad Gita or the Lord’s Song (Madras: G. A. Natesan and Company,
+1907), iv.
+Annie Besant, “First lecture”, in idem, Hints on the Study of the Bhagavad Gita (Adyar:
+Theosophical Publishing House, 1973), 1–2.
+
+313
+
+314 mishka sinha
+
+The two collaborative translations of the Gita which are the subjects of this
+section appeared in 1936 and 1944. Each could lay claim simultaneously to the
+spiritual authenticity of the East, and the cultural authority of the West, by
+bringing together Indian translators—Hindu swamis visiting the West—and
+prominent Western authors.
+In 1931, W. B. Yeats met Purohit Swami through Thomas Sturge Moore, who
+hoped to garner Yeats’s support for the swami’s book on his spiritual experiences
+as an “Indian monk”. Yeats was impressed by the swami’s descriptions of his
+own transcendental experiences, and agreed to write an introduction for the
+book.52 Yeats now took on the task of helping the swami to publish further
+books; he approached Faber and Faber, where T. S. Eliot was editor, hoping
+that Eliot would publish the swami’s books and provide introductions for them,
+endowing them with inestimable value in an international market. In the literary
+world of modernist London, T. S. Eliot had a special status, as an interpreter of
+arcane knowledge, as well as an authority, amongst Western writers and critics,
+on Hindu and Buddhist philosophy. However, Eliot was not convinced about
+the marketability of the swami’s books. In a letter to Purohit Swami written in
+1934, Eliot wrote that he was not sure he believed all the swami’s tales of Indian
+mysticism, and was even less sure of what a British audience would think of them.
+About the Gita, he added,
+to the ordinary occidental reader who has no first hand experience of Indian thought, and
+no real perception of the seriousness of the subject, the Bhagavad-Geeta is likely to seem
+at first sight repetitious and prolix. I believe that it might seem so to me, if I had not many
+years ago read it in the original.53
+
+Despite Eliot’s reservations, Faber took on the publication of four books by
+Purohit Swami, apparently on the condition that they be either introduced by or
+in some way associated with the name of W. B. Yeats.54 Apart from an anonymous
+review of Yeats and Purohit Swami’s translation of The Ten Principal Upanis.ads,
+in a Faber catalogue for 1937, Eliot did not provide a written endorsement of
+any of the swami’s books.55 He did not write an introduction to Purohit Swami’s
+translation The Geeta, despite there being evidence that one was expected from
+him by the Faber directors.56
+52
+53
+
+54
+
+55
+56
+
+Purohit Swami, An Indian Monk (London: Macmillan, 1932).
+T. S. Eliot File, Purohit Swami Collection, Nehru Memorial Archives, Delhi (unpublished
+letter from T. S. Eliot to Purohit Swami, 1 Nov. 1934).
+T. S. Eliot File, Purohit Swami Collection, Nehru Memorial Archives, Delhi (unpublished
+letter from T.S. Eliot to Purohit Swami, 7 May 1937).
+The Ten Principal Upanishads, trans. Purohit Swami and W. B. Yeats (London: Faber, 1937).
+The Geeta: The Gospel of the Lord Shri Krishna, trans. from the original Sanskrit by Shri
+Purohit, Swami (London: Faber, 1935).
+
+corrigibility, allegory, universality
+
+Eliot and Yeats exemplified in turn two kinds of response to the Gita in the
+West—the scholarly, which had been more prominent for most of the nineteenth
+century, and the popular, which rose to dominate the field from the 1880s.
+Yeats devoted much of the energies of his last years to the publication and
+promotion of Purohit Swami’s work. Introduced to Hinduism by an Indian
+Theosophist in 1886, Yeats was later a member of the Theosophical Society for a
+number of years. From an early age, Yeats had sought initiation into a spiritual
+path which would lead him to revelations of arcane mysteries and mystical
+truths which he believed to exist on a hidden plane, a spiritus mundi, which
+was everywhere and yet not apparent. His interests in Theosophy, spiritualism
+and Purohit Swami’s books were all motivated by this search. He was far less
+concerned with the scholarly accuracy of the swami’s translations than with
+the spiritual truths they seemed to embody, an attitude which characterized
+the popular tradition of interest in Hinduism and its texts, with its fluid and
+amorphous synthesis of influences and ideas.
+On the other hand, Eliot inherited his approach to Indian philosophy and
+its texts from his teachers at Harvard, who treated them as scholarly sources,
+to be understood within a specific cultural and religious context. Despite poetic
+references to the Gita in the Four Quartets and in an unpublished section of
+The Waste Land, as well as a statement that he believed the Gita to be the next
+greatest philosophical poem after Dante’s Divine Comedy, Eliot did not want to
+be involved in the production of a popular translation of the text. Unlike Yeats, he
+was not convinced that the Gita’s proselytization in the West as a generalized or
+universal spiritual doctrine was either desirable or possible. While Yeats accepted
+the late nineteenth-century idea of the Gita as a universal text which was full
+of symbolic significance, an aspect which appealed to Yeats’s occult proclivities,
+Eliot remained unconvinced by the idea of a universal religion. Amongst most
+twentieth-century western readers of the Gita, Eliot was increasingly in the
+minority.
+In 1944 the Gita appeared in a translation by Swami Prabhavananda and
+Christopher Isherwood.57 Like Purohit Swami, Prabhavananda had travelled
+west to proselytize Hinduism. It was a tradition which may have had its earliest
+success in Swami Vivekananda, but its most influential and effective representative
+came later in the person of A. C. Bhaktivedanta and his International Society
+for Krishna Consciousness. Prabhavananda gathered a circle of influential
+acolytes around him in California. One of these was the English novelist,
+Aldous Huxley, who introduced Christopher Isherwood to the swami. Isherwood
+and Prabhavananda’s translation of the Gita was one of several collaborations
+57
+
+The Song of God: Bhagavadgita, trans. by Swami Prabhavananda and Christopher
+Isherwood, with an Introduction by Aldous Huxley (Hollywood: M. Rodd Co., 1944).
+
+315
+
+316 mishka sinha
+
+undertaken by the swami with various Western writers. Yet The Song of God had
+a special advantage. As well as being co-authored by a famous author, it carried
+an introduction by the even more celebrated Aldous Huxley.
+Huxley’s Introduction to The Song of God became as famous as the book for
+which it was written. In it, he expounded the principles of a universalist spiritual
+tradition he called the “perennial philosophy”, of which he claimed the Gita to be
+an exemplar text:58 “In Vedanta and Hebrew prophecy, in the Tao Teh King [sic]
+and the Platonic dialogues . . . the Perennial Philosophy has spoken almost all the
+languages of Asia and Europe and made use of the terminology and traditions of
+every one of the higher religions”.59
+The universality of the Gita was re-emphasized through its representation as
+part of the “perennial philosophy.” It was the “compendium of the whole Vedic
+doctrine . . . the focus of all Indian religion”,60 but contained “enduring value”,
+“not only for Indians, but for all mankind”.61
+Through its inclusion in this new paradigm, the Gita could now function
+paradoxically both as a central symbol of neo-Hinduism, and as an exemplar text
+of a transnational universalist philosophy and spirituality.
+Aldous Huxley’s Introduction brought to light the distance travelled by
+the Gita from its original literary and spiritual context, and illustrated the
+breadth of possible meanings which could be assigned to it, and the Gita’s
+amenability to allegorical interpretation was taken by Huxley to its utmost limit:
+“The Bhagavad-Gita is perhaps the most systematic scriptural statement of the
+Perennial Philosophy . . . [for] a world at war . . . it stands pointing, clearly and
+unmistakably, to the only road of escape from the self-imposed necessity of selfdestruction.”62 Writing in the midst of a war of destruction and violence on an
+unprecedented scale, Huxley reread and reimagined the Gita in a role which not
+only subverted its prime injunction to kill, and accept the necessity of killing, but
+converted it into a pacifist manifesto, a means of escape from violence.
+
+conclusion
+Telang’s Bhagavadgita, published in Max Müller’s Sacred Books, Edwin
+Arnold’s The Song Celestial, the loosely connected Theosophical interpretations
+with their family resemblances, and Gandhi’s Gita, which drew from Arnold
+
+58
+
+59
+60
+61
+62
+
+The next year, Huxley published The Perennial Philosophy (London: Chatto and Windus,
+1945), devoted to explicating its history and underlying principles.
+Aldous Huxley, “Introduction”, Song of God, 11–12.
+Ibid., p. 13. Huxley quotes Ananda Coomaraswamy on the Gita.
+Ibid. This is Huxley’s own conclusion.
+Ibid., 23.
+
+corrigibility, allegory, universality
+
+and the Theosophists, all these, published between 1880 and 1910, individually
+and in succession contrived a hegemonic form for a transnational Gita. Each
+contingently contributed to an interpretation which emphasized its allegorical
+qualities and symbolic significance and its universal relevance. As the final section
+has shown, the majority of translations that followed were to assume these
+qualities to be intrinsic as well as essential to the text. In some sense the horizon
+forming the historical consciousness of these previous translations has been
+blurred into the horizon of the text itself within the consciousness of modern
+readers and interpreters of the Gita.
+
+317
+
+
