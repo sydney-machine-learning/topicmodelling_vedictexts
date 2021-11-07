@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1CjQZ9zjZVHZeHDaHkJBc_jq8jtoQZrnQ
 """
 
-!pip install top2vec
-!pip install top2vec[sentence_encoders]
-!pip install top2vec[sentence_transformers]
-!pip install plotly==5.2.1
-!pip install -U kaleido
+# !pip install top2vec
+# !pip install top2vec[sentence_encoders]
+# !pip install top2vec[sentence_transformers]
+# !pip install plotly==5.2.1
+# !pip install -U kaleido
 
 #Basic Python and Machine learning libraries
 import os, sys, warnings, random, time, re, math, string, copy
@@ -462,6 +462,7 @@ topic_words
 
 #np.random.seed(333)
 def get_embeddings_df_2d(model, num_reduced_topics = 10, sigma = [3,3] ):
+    
   """
   2d plot the documents embedding
   """
@@ -500,6 +501,7 @@ def get_embeddings_df_2d(model, num_reduced_topics = 10, sigma = [3,3] ):
 
 
 def get_embeddings_df_3d(model, num_reduced_topics = 10, sigma = [3,3,3]):
+
   """
   3d plot the documents embedding
   """
