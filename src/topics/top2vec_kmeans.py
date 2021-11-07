@@ -1,4 +1,4 @@
-# Code is adopted from Dimo Angelov code of Top2Vec which is under
+# Code is adapted from Dimo Angelov code of Top2Vec which is under
 # BSD 3 Licence
 # 
 import logging
