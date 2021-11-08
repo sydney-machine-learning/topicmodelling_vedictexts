@@ -387,9 +387,9 @@ class Top2Vec:
                               'metric': 'euclidean',
                               'cluster_selection_method': 'eom'
                               }
-                cluster = hdbscan.HDBSCAN(**self.hdbscan_args).fit(umap_model.embedding_)
             else:
                 self.hdbscan_args = hdbscan_args
+            cluster = hdbscan.HDBSCAN(**self.hdbscan_args).fit(dim_reduced_embeddings)
         else:
             self.kmeans_args = kmeans_args
             cluster = KMeans(**self.kmeans_args).fit(self._get_document_vectors(norm=False))
