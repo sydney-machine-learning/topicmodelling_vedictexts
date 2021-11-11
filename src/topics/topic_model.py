@@ -54,7 +54,7 @@ def default_tokenizer(doc):
     return simple_preprocess(strip_tags(doc), deacc=True)
 
 
-class Top2Vec:
+class TopicModel:
     """
     Top2Vec
 
