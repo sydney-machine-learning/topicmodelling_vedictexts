@@ -393,6 +393,9 @@ class TopicModel:
         else:
             self.kmeans_args = kmeans_args
             cluster = KMeans(**self.kmeans_args).fit(self._get_document_vectors(norm=False))
+        
+        self.dim_reduced_embeddings = dim_reduced_embeddings	
+        self.cluster = cluster
         # calculate topic vectors from dense areas of documents
         logger.info('Finding topics')
 
@@ -1024,6 +1027,24 @@ class TopicModel:
         self.document_index.add_items(document_vectors, index_ids)
         self.documents_indexed = True
 
+    def get_dim_reduced_embedding(self):	
+        """	
+        Get the Reuced Dimensionality Embedding when the model is built.	
+        Returns	
+        -------	
+        dim_reduced_embeddings: dim_reduced_embeddings	
+        """	
+        return self.dim_reduced_embeddings	
+
+    def get_hdbscan_cluster(self):	
+        """	
+        Get the HDBSCAN model when the model is built.	
+        Returns	
+        -------	
+        cluster: HDBSCAN	
+        """	
+        return self.cluster
+    
     def index_word_vectors(self, ef_construction=200, M=64):
         """
         Creates an index of the word vectors using hnswlib. This will

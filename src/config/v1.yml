@@ -1,0 +1,15 @@
+#v1
+dim_red: 'umap'
+cluster: 'hdbscan'
+
+#umap args
+nn: 10
+nc: 5
+metric: 'cosine'
+random_state: 42
+
+#hdbscan args
+mcs: 10
+ms: 5
+metric: 'euclidean'
+csm: 'eom'
