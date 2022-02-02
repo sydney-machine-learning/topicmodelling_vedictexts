@@ -1,5 +1,4 @@
 Chapter 1
-
 1. DHRITARASHTRA:  O Sanjaya, tell me what happened at Kurukshetra, the field of dharma, where my family and the Pandavas gathered to fight. 
 2. SANJAYA:  Having surveyed the forces of the Pandavas arrayed for battle, prince Duryodhana approached his teacher, Drona, and spoke. 
 3. O my teacher, look at this mighty army of the Pandavas, assembled by your own gifted disciple, Yudhishthira. 
@@ -501,7 +500,7 @@ Chapter 12
 8  Still your mind in me, still your intellect in me, and without doubt you will be united with me forever. 
 9 If you cannot still your mind in me, learn to do so through the regular practice of meditation. 
 10 If you lack the will for such self-discipline, engage yourself in my work, for selfless service can lead you at last to complete fulfillment. 
-11 If you are unable to do even this, surrender yourself to 8  me, disciplining yourself and renouncing the results of all your actions. 
+11 If you are unable to do even this, surrender yourself to me, disciplining yourself and renouncing the results of all your actions. 
 12 Better indeed is knowledge than mechanical practice. Better than knowledge is meditation. But better still is surrender of attachment to results, because there follows immediate peace. 
 13 That one I love who is incapable of ill will, who is friendly and compassionate. Living beyond the reach of I and mine and of pleasure and pain, 
 14 patient, contented, self-controlled, firm in faith, with all their heart and all their mind given to me  with such as these I am in love. 
