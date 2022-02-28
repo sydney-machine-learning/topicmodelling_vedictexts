@@ -3,7 +3,7 @@ Atharva Veda
 
 
 Index
-	1. Annapurna Upanishad
+1. Annapurna Upanishad
 2. Atharvasikha Upanishad
 3. Atharvasiras Upanishad
 4. Atma Upanishad
@@ -19,7 +19,7 @@ Index
 14. Krishna Upanishad
 15. Maha-Vakya Upanishad
 16. Mandukya Upanishad
-	17. Mundaka Upanishad
+17. Mundaka Upanishad
 18. Narada-Parivrajaka Upanishad
 19. Nrisimha Poorva Upanishad
 20. Nrisimha Uttara Upanishad

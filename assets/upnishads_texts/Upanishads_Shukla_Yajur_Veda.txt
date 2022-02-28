@@ -3,7 +3,7 @@ Shukla Yajur Veda
 
 
 Index
-	1. Adhyatma Upanishad
+1. Adhyatma Upanishad
 2. Advaya-Taraka Upanishad
 3. Bhikshuka Upanishad
 4. Brihadaranyaka Upanishad
@@ -12,7 +12,7 @@ Index
 7. Jabala Upanishad
 8. Mandala Upanishad
 9. Mantrika Upanishad
-	10. Muktika Upanishad
+10. Muktika Upanishad
 11. Niralamba Upanishad
 12. Paingala Upanishad
 13. Paramahamsa Upanishad
