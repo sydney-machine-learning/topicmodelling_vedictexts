@@ -1,4 +1,6 @@
 """
+
+@author: Mukul(https://github.com/mukul54)
 Run experiments for different version of topic model
 
    		dimReduction 	Clustering
